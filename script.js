@@ -7,7 +7,7 @@ console.log("User age is: ",userAge); //printing the user age
 console.log("User height is (in cm): ",userHeight); //printing the user height
 
 // Part 2 - Arrays
-let petNames = ["Logan", "Charlotte", "Sophie"]; //creating an array of pet names
+const petNames = ["Logan", "Charlotte", "Sophie"]; //creating an array of pet names
 console.log("Proof of part 2 being done: "); //printing the proof of part 2 being done
 console.log("Pet names array: ",petNames); //printing the pet names array
 
