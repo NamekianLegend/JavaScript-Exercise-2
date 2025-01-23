@@ -20,7 +20,7 @@ console.log("Pet names array with order reversed: ",petNames); //printing the pe
 
 
 // Part 3 - Objects
-let car = { //creating an object for a car
+const car = { //creating an object for a car
     make: "Honda", //property for object = car make
     model: "Civic", //property for object = car model
     year: 2019, //property for object = car year
